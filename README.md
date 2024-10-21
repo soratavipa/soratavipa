@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @soratavipa
-- 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning React/React Native
+
 
 <!---
 soratavipa/soratavipa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
